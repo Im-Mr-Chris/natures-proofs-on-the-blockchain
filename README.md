@@ -1,13 +1,16 @@
 # natures-proofs-on-the-blockchain
 
+anything (i) finds value must be denoted and or classified with respect to (x)
 
 I want to use take these from their mathematical proofs and turn them into code for the blockchain.
 
-This is not for purchase and is only for my education and understanding.
-
+This is only for my education and understanding of nature and binary principles.
+All and any of this probably wouldn't be programed until DeDeVM is stable.
 
 dependent on chaos theory and initial conditions
-must be "set and forget" type of approach 
+must be "set and forget" movement
+follow newtons principles (if the entity is already in motion, then leave it be. this is a nature study)
+
 
 - actuality and potentiality
 - avalanche effect
